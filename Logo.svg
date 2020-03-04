@@ -44,9 +44,6 @@
          units-per-em="1024"
          id="font-face6542"
          font-family="SVGFont 1" />
-      <missing-glyph
-         d="M0,0h1000v1024h-1000z"
-         id="missing-glyph6544" />
     </font>
   </defs>
   <sodipodi:namedview
